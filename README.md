@@ -7,6 +7,11 @@ A repository for organizing my existing repositories and presenting a call to ac
 Below are a list of projects that I am actively seeking collaboration on. Please feel free to check them out, contribute and ask questions about any of the below:
 
 1. [Bootstrapping](https://github.com/knathanieltucker/bootstrapping) (or perhaps better named: computational statistical inference in python). I am building out a bootstrapping library for data scientists. Very early stages.
+2. Causal Inference python library. I would like to eventually build something like this out, but I have not even started. If interested please reach out.
+3. [YouTube](https://www.youtube.com/channel/UCQTQ0AbOupKNxKKY-_x46OQ). We are always interested in help with various parts of the channel (you can check out some of the [videos and repos](#youtube-material) below)
+4. Data science projects. I love to help out on new data sets and if all goes well we could make a [Data Talks](https://www.youtube.com/watch?v=4Aimp4i5M0c) together.
+5. Deep Learning Research. I have more ideas than I have time to implement, so if you know what you are doing (or have gone through my tutorial at [A Bit of Deep Learning and Keras](https://www.youtube.com/playlist?list=PLgJhDSE2ZLxaPX0jteHZG4skdj8ZrST9d)) I would love to work together
+6. And as always I do **Data Science Consulting** for those with more serious data problems
 
 ## Course Material
 
