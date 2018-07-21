@@ -24,9 +24,9 @@ Below are repositories associated with courses that I teach. Feel free to reach 
 
 ## Speaking Engagements
 
-0. Planning on speaking at at the [Big Data Conference](http://www.globalbigdataconference.com/santa-clara/6th-annual-global-big-data-conference/event-105.html) about the real problems in data science
-1. I spoke on representational learning at [ODSC West](https://odsc.com/california) (Video edit in progress)
-2. I spoke on representational learning at Demystifying Artificial Intelligence
+1. Planning on speaking at at the [Big Data Conference](http://www.globalbigdataconference.com/santa-clara/6th-annual-global-big-data-conference/event-105.html) about the real problems in data science
+2. I spoke on representational learning at [ODSC West](https://odsc.com/california) (Video edit in progress)
+3. I spoke on representational learning at Demystifying Artificial Intelligence
 
 ## Contracts
 
@@ -39,13 +39,13 @@ A list of a couple of contractor projects that I have worked on:
 
 Material that accompanies my YouTube channel videos. If you would be interested in helping out or joining the team please do reach out!
 
-0. [Statistical Inference](https://www.youtube.com/playlist?list=PLgJhDSE2ZLxaaM1W45NB8dFSQ-frJJoBq)
-1. [A Bit of Deep Learning and Keras](https://www.youtube.com/playlist?list=PLgJhDSE2ZLxaPX0jteHZG4skdj8ZrST9d): [repo](https://github.com/knathanieltucker/a-bit-of-deep-learning-and-keras)
-2. [A Bit of Data Science and Scikit Learn](https://www.youtube.com/playlist?list=PLgJhDSE2ZLxb33q-x5592LCiVRsHDxVf3): [repo](https://github.com/knathanieltucker/bit-of-data-science-and-scikit-learn)
-3. [Data Talks](https://www.youtube.com/watch?v=4Aimp4i5M0c): [repo](https://github.com/knathanieltucker/data-talks)
-4. [Patsy Understanding the Weird Parts](https://www.youtube.com/watch?v=8eeRNiVmo2U&list=PLgJhDSE2ZLxblV7ywtiK3xrEZ-vWm11Xn): [repo](https://github.com/knathanieltucker/patsy-weird-parts)
-5. [Seaborn Understanding the Weird Parts](https://www.youtube.com/playlist?list=PLgJhDSE2ZLxYlhQx0UfVlnF1F7OWF-9rp): [repo](https://github.com/knathanieltucker/seaborn-weird-parts)
-6. [Meteor Maxims](https://www.youtube.com/watch?v=v4bOiWdH3XE&list=PLgJhDSE2ZLxYrvnMDf6DnayHjbXJEzYRm): [repo](https://github.com/knathanieltucker/pubsub)
+1. [Statistical Inference](https://www.youtube.com/playlist?list=PLgJhDSE2ZLxaaM1W45NB8dFSQ-frJJoBq)
+2. [A Bit of Deep Learning and Keras](https://www.youtube.com/playlist?list=PLgJhDSE2ZLxaPX0jteHZG4skdj8ZrST9d): [repo](https://github.com/knathanieltucker/a-bit-of-deep-learning-and-keras)
+3. [A Bit of Data Science and Scikit Learn](https://www.youtube.com/playlist?list=PLgJhDSE2ZLxb33q-x5592LCiVRsHDxVf3): [repo](https://github.com/knathanieltucker/bit-of-data-science-and-scikit-learn)
+4. [Data Talks](https://www.youtube.com/watch?v=4Aimp4i5M0c): [repo](https://github.com/knathanieltucker/data-talks)
+5. [Patsy Understanding the Weird Parts](https://www.youtube.com/watch?v=8eeRNiVmo2U&list=PLgJhDSE2ZLxblV7ywtiK3xrEZ-vWm11Xn): [repo](https://github.com/knathanieltucker/patsy-weird-parts)
+6. [Seaborn Understanding the Weird Parts](https://www.youtube.com/playlist?list=PLgJhDSE2ZLxYlhQx0UfVlnF1F7OWF-9rp): [repo](https://github.com/knathanieltucker/seaborn-weird-parts)
+7. [Meteor Maxims](https://www.youtube.com/watch?v=v4bOiWdH3XE&list=PLgJhDSE2ZLxYrvnMDf6DnayHjbXJEzYRm): [repo](https://github.com/knathanieltucker/pubsub)
 
 ## Lists and Information
 
