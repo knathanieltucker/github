@@ -22,11 +22,24 @@ Below are repositories associated with courses that I teach. Feel free to reach 
 3. [Introduction to Data Science 2017](https://github.com/knathanieltucker/dat-sf-37)
 4. [Introduction to Data Science 2016](https://github.com/ga-students/ds-sf-29)
 
+## Speaking Engagements
+
+0. Planning on speaking at at the [Big Data Conference](http://www.globalbigdataconference.com/santa-clara/6th-annual-global-big-data-conference/event-105.html) about the real problems in data science
+1. I spoke on representational learning at [ODSC West](https://odsc.com/california) (Video edit in progress)
+2. I spoke on representational learning at Demystifying Artificial Intelligence
+
+## Contracts
+
+A list of a couple of contractor projects that I have worked on:
+
+1. I taught machine learning, data science and python to students at [Salesforce](https://www.salesforce.com) with [Develop Intelligence](https://www.developintelligence.com)
+2. Helped develop machine learning models for [Autumn Wind Asset Management](https://www.autumnwind.com)
 
 ## YouTube Material
 
 Material that accompanies my YouTube channel videos. If you would be interested in helping out or joining the team please do reach out!
 
+0. [Statistical Inference](https://www.youtube.com/playlist?list=PLgJhDSE2ZLxaaM1W45NB8dFSQ-frJJoBq)
 1. [A Bit of Deep Learning and Keras](https://www.youtube.com/playlist?list=PLgJhDSE2ZLxaPX0jteHZG4skdj8ZrST9d): [repo](https://github.com/knathanieltucker/a-bit-of-deep-learning-and-keras)
 2. [A Bit of Data Science and Scikit Learn](https://www.youtube.com/playlist?list=PLgJhDSE2ZLxb33q-x5592LCiVRsHDxVf3): [repo](https://github.com/knathanieltucker/bit-of-data-science-and-scikit-learn)
 3. [Data Talks](https://www.youtube.com/watch?v=4Aimp4i5M0c): [repo](https://github.com/knathanieltucker/data-talks)
