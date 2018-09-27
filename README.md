@@ -34,6 +34,9 @@ A list of a couple of contractor projects that I have worked on:
 
 1. I taught machine learning, data science and python to students at [Salesforce](https://www.salesforce.com) with [Develop Intelligence](https://www.developintelligence.com)
 2. Helped develop machine learning models for [Autumn Wind Asset Management](https://www.autumnwind.com)
+3. Helped with due diligence on a prospective investment for [Mubadala VC](https://www.mubadala.com)
+4. I taught machine learning and deep learning to partners at [G2 Venture Partners](https://www.g2vp.com)
+5. I helped with model building and refinement at [Onenigma](https://www.onenigma.com)
 
 ## YouTube Material
 
